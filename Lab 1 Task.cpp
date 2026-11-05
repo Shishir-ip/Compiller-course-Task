@@ -12,7 +12,7 @@ Q2. Write a program to determine whether the given input contains operators or n
     operator2: =
 
 Q3. Write a program to determine whether the given input is a comment line or not.
-    Examples: // single-line comment and /* multiple-line comment */
+    Examples: a double-slash single-line comment and a slash-star multiple-line comment.
 
 Q4. Write a program to determine whether the given input is an identifier or not.
     Conditions:
